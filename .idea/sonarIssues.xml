@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.8/pagehelper-5.1.8.jar!/com/github/pagehelper/Page.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hy-3.5.3/face-big-data/cw-bigdata-app/cw-bigdata-app-all/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hy-3.5.3/face-big-data/cw-bigdata-data/cw-bigdata-data-kafka/src/main/java/cn/cloudwalk/bigdata/data/kafka/alarm/dto/AlarmClusterTacticsCountDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hy-3.5.3/face-big-data/cw-bigdata-web/cw-bigdata-web-app/cw-bigdata-web-app-dossier/src/main/java/cn/cloudwalk/bigdata/web/app/dossier/ArchivesController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hy-3.5.3/face-big-data/cw-bigdata-web/cw-bigdata-web-app/cw-bigdata-web-app-dossier/src/main/java/cn/cloudwalk/bigdata/web/app/dossier/vo/DossierArchiveRespVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hy-3.5.3/face-big-data/cw-bigdata-web/cw-bigdata-web-app/cw-bigdata-web-app-userresource/src/main/java/cn/cloudwalk/bigdata/web/app/userresource/controller/UserResourceController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/cn/javaex/yaoqishan/exception/QingExceptionResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/db.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/page/portal/error/403.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/page/portal/error/404.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/page/portal/error/404.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/page/portal/error/500.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
